@@ -1,24 +1,25 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 1, 2018 (Sunday)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**:Setup machine for javascript.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** implement the 2d array multiplication in javascript.i learned how to create arrays and do multiplication on them through programming.
+
+**Link to work:** [2d array multiplication](https://github.com/harshgangwar0402/100-days-of-code/commit/7caa81a05e75b1acc6d8d8ad0b41f83c32559f11)
 
 ### Day 1: July 2, 2018 (Monday)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
+**Today's Progress**: Do some basic programs, like factorial,calculator,table, and reverse string.
+
+**Thoughts**: Make a calculator program, user must enter two number and what kind of operation he wants to perform on tha numbers.
+Reverse a String without using any inbuilt function.
+
+**Link(s) to work**: [Calculator App](https://github.com/harshgangwar0402/100-days-of-code/blob/master/coding/day1/calculator.js)
+                   : [reverse of a String](https://github.com/harshgangwar0402/100-days-of-code/blob/master/coding/day1/reverseString.js)
+                   : [factorial of a number](https://github.com/harshgangwar0402/100-days-of-code/blob/master/coding/day1/factorial.js)
 ### Day 3: July 3, 2018 (Tuesday)
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
