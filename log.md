@@ -20,12 +20,3 @@ Reverse a String without using any inbuilt function.
 **Link(s) to work**: [Calculator App](https://github.com/harshgangwar0402/100-days-of-code/blob/master/coding/day1/calculator.js)
                    : [reverse of a String](https://github.com/harshgangwar0402/100-days-of-code/blob/master/coding/day1/reverseString.js)
                    : [factorial of a number](https://github.com/harshgangwar0402/100-days-of-code/blob/master/coding/day1/factorial.js)
-### Day 3: July 3, 2018 (Tuesday)
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
